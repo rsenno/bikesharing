@@ -12,19 +12,19 @@
 -	The full storyboard can be found here: [Bike Share in Des Moines](https://public.tableau.com/app/profile/robert8814/viz/NYCDesMoinesBikeShareStory/BikeShareinDesMoines)
 -	
 -	The typical ride was less than an hour: [Duration of Check Out Times](https://public.tableau.com/app/profile/robert8814/viz/NYCDesMoinesBikeShareStory/CheckoutTimesforUsers) 
--	
+-	![NYC Checkout Times by User](images/NYC_Checkout_TImes_for_Users.png)
 -	Males dominated the bike share: [Duration of Check Out Times by Gender](https://public.tableau.com/app/profile/robert8814/viz/NYCDesMoinesBikeShareStory/CheckoutTimesbyGender)
--	
+-	![NYC Checkout Times by Gender](images/NYC_Checkout_Times_by_Gender.png)
 -	Rides peaked before and after work on weekdays and more in the middle of the day on weekends: [Trips by Weekday per Hour](https://public.tableau.com/app/profile/robert8814/viz/NYCDesMoinesBikeShareStory/TripsbyWeekdayperHour)
--	
+-	![Trips by Weekdays per Hour](images/Trips_by_Weekdays_per_Hour.png)
 -	All riders appeared to have similar peak periods regardless of gender specified: [Trips by Weekday per Hour by Gender](https://public.tableau.com/app/profile/robert8814/viz/NYCDesMoinesBikeShareStory/TripsbyGenderWeekdayperHour)
--	
+-	![Trips by Weekdays per Hour by Gender](images/Trips_by_Gender_Weekdays_per_Hour.png)
 -	Subscribers were more active than other Customers. Also, customers (i.e., non-subscribers) were more likely to not specify gender:  [User Trips by Weekday by Gender](https://public.tableau.com/app/profile/robert8814/viz/NYCDesMoinesBikeShareStory/UserTripsbyGenderbyWeekday)
 -	
 -	Starting locations tended to be in Manhattan and more likely south of Central Park: [Top Starting Locations](https://public.tableau.com/app/profile/robert8814/viz/NYCDesMoinesBikeShareStory/TopStartingLocations)
--	
+-	![Top Starting Locations](images/Top_Starting_Locations.png)
 -	Similarly, ending locations tended to be in Manhattan and south of Central Park: [Top ending Locations](https://public.tableau.com/app/profile/robert8814/viz/NYCDesMoinesBikeShareStory/TopEndingLocations)
--	
+-	![Top Ending Locations](images/Top_Ending_Locations.png)
 ## Summary
 ### Bottom Line: 
 -	Des Moines is significantly different relative to NYC 
